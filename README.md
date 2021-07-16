@@ -59,7 +59,7 @@
 
 
 
-## :cloud:  <p align="left">计算机网络</p>
+##   <p align="left">:cloud:计算机网络</p>
 
 - 
 
@@ -67,7 +67,7 @@
 
 
 
-## :computer: 操作系统
+## <p align="left">:computer: 操作系统</p>
 
 - 
 
