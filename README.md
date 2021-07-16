@@ -79,13 +79,9 @@
 
 
 
-##<p align="left">:floppy_disk: 数据库</p>
+## <p align="left">:floppy_disk: 数据库</p>
 
-- [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
-- [SQL 语法](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL%20语法.md)
-- [SQL 练习](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL%20练习.md)
-- [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
-- <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.php.cn%2Fupload%2Farticle%2F000%2F000%2F032%2F5cf62a3a58f87710.png&refer=http%3A%2F%2Fimg.php.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015615&t=64811cececfd51adf983a282196087fe" align='left' width="70px"><p align="left">Redis</p>
+-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.php.cn%2Fupload%2Farticle%2F000%2F000%2F032%2F5cf62a3a58f87710.png&refer=http%3A%2F%2Fimg.php.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015615&t=64811cececfd51adf983a282196087fe" align='left' width="70px"><p align="left">Redis</p>
 
 
 
