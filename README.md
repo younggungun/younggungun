@@ -16,16 +16,17 @@
 - 日常的笔记为图方便常常直接存在本地，借此整理机会将其更新上传，不当之处，还请见谅。
   - 学习和交流**Hec-Ras**的小伙伴，可移步至[:strawberry:b站自制教程](https://space.bilibili.com/324055134?from=search&seid=14157179144142222780)，按需自取👀。
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 💜💝😂😃😄😅😆😋😎😍‍✌✋👌👍👊👋👏✍👣👀👂👃👅👄💋👑💍🌂⚽⚾🎮🎲🎷🎸🎺🎻🚲⌚⏰📻☎💰💳♠♥♦♣💯💘❤💓💔💕💖💗💙
 
 <div align="center">
     <a href=""> <img src="https://img.shields.io/badge/DaYoung-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-blue"></a>
     <a href="https://space.bilibili.com/324055134?from=search&seid=14157179144142222780"> <img src="https://img.shields.io/badge/DaYoung-B%E7%AB%99%E4%B8%BB%E9%A1%B5-blue"></a>
-<br>
+
 
 | &nbsp;Java基础&nbsp; | &nbsp;计算机网络&nbsp;&nbsp;&nbsp; |                  &nbsp;操作系统&nbsp;&nbsp;                  | &nbsp;数据库&nbsp;&nbsp;|Mybatis/M-P&nbsp;&nbsp;|&nbsp;多线程&nbsp;|
 | :---: | :----: | :---: | :----: | :----: | :----: |
@@ -42,7 +43,7 @@
 </div>
 <br>
 
-## <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Favatar.csdn.net%2Fblogpic%2F20141208225207671.jpg&refer=http%3A%2F%2Favatar.csdn.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015725&t=1c5eccba0de6a5e2f05651ad977c72ce" align='left' width="70px">Java基础
+## <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Favatar.csdn.net%2Fblogpic%2F20141208225207671.jpg&refer=http%3A%2F%2Favatar.csdn.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015725&t=1c5eccba0de6a5e2f05651ad977c72ce" align='left' width="70px"><p align="left">Java基础</p>
 
 
 
@@ -58,7 +59,7 @@
 
 
 
-## :cloud: 计算机网络 
+## :cloud:  <p align="left">计算机网络</p>
 
 - 
 
