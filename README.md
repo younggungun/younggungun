@@ -87,7 +87,7 @@
 
 - mysql[高级](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md)
 
-- <p align="left">[Redis](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md)</p>
+[Redis](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md)
 
 
 
