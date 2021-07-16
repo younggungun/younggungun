@@ -21,9 +21,6 @@
 
 
 💜💝💞💟❣📱📶📳😂😃😄😅😆😋😎😍‍✌✋👌👍👊👋👏✍👣👀👂👃👅👄💋👑💍🌂⚽⚾🎮🎲🎷🎸🎺🎻🚲⌚⏰📻☎💰💳♠♥♦♣💯💘❤💓💔💕💖💗💙💚💛
-<div align="center">
-    <img src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="200px>
-</div>
 
 <div align="center">
     <a href=""> <img src="https://img.shields.io/badge/DaYoung-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-blue"></a>
@@ -40,7 +37,7 @@
 <br>
 
 <div align="center">
-    <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png" width="200px">
+    <img src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="400px">
 </div>
 <br>
 
