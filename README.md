@@ -45,7 +45,7 @@
 
 ---
 
-# :cloud:计算机网络
+#### :cloud:计算机网络
 
 
 
@@ -57,7 +57,7 @@
 
 ---
 
-# :computer:操作系统
+#### :computer:操作系统
 
 
 
@@ -69,37 +69,7 @@
 
 ---
 
-# <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Favatar.csdn.net%2Fblogpic%2F20141208225207671.jpg&refer=http%3A%2F%2Favatar.csdn.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015725&t=1c5eccba0de6a5e2f05651ad977c72ce" width="80px">Java基础
-
-
-
-
-
-
-
-
-
-
-
----
-
-# :floppy_disk:**数据库**
-
-- #### 基础
-
-- #### **高级和优化**
-
-
-
-
-
-
-
-
-
----
-
-# :art:**NIO**/**Netty**
+#### <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Favatar.csdn.net%2Fblogpic%2F20141208225207671.jpg&refer=http%3A%2F%2Favatar.csdn.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015725&t=1c5eccba0de6a5e2f05651ad977c72ce" width="80px">Java基础
 
 
 
@@ -113,51 +83,69 @@
 
 ---
 
-# :pencil:**算法**
+#### :floppy_disk:**数据库**
+
+- ##### 基础
+
+- ##### **高级和优化**
+
+
+
+
+
+
+
+
+
+---
+
+#### :art:**NIO**/**Netty**
+
+
+
+
+
+
+
+
+
+
+
+---
+
+#### :pencil:**算法**
 
 刷题顺序：**数组->链表->哈希表->字符串->栈与队列->二叉树->回溯->贪心->动态规划->图论->高级数据结构**
 
-- #### 数组
+- ##### 数组
 
-- #### 链表
+- ##### 链表
 
-- #### 字符串
+- ##### 字符串
 
-- #### 栈与队列
+- ##### 栈与队列
 
-- #### 二叉树专题
+- ##### 二叉树专题
 
-  - #### 1
+  - ##### 1
 
-- #### 回溯
+- ##### 回溯
 
-- #### 贪心
+- ##### 贪心
 
-- #### 动态规划
+- ##### 动态规划
 
-- #### 图论
+- ##### 图论
 
-- #### 跳表
-
-
-
----
-
-# <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="100px">Spring
-
-
-
-
-
-
-
-
+- ##### 跳表
 
 
 
 ---
 
-# <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="100px">SpringMvc
+#### <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="100px">Spring
+
+
 
 
 
@@ -169,7 +157,7 @@
 
 ---
 
-# **<img src="https://mybatis.org/images/mybatis-logo.png" width="100px">Mybatis** / **Mybatis+p**lus
+#### <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="100px">SpringMvc
 
 
 
@@ -181,17 +169,7 @@
 
 ---
 
-# :coffee:**SpringBoot**
-
-
-
-
-
-
-
----
-
-# :bulb: SpringSecurity
+#### **<img src="https://mybatis.org/images/mybatis-logo.png" width="100px">Mybatis** / **Mybatis+p**lus
 
 
 
@@ -203,7 +181,7 @@
 
 ---
 
-:watermelon: **多线程/并发**
+#### :coffee:**SpringBoot**
 
 
 
@@ -213,7 +191,29 @@
 
 ---
 
-# :woman_playing_water_polo:Hec-Ras
+#### :bulb: SpringSecurity
+
+
+
+
+
+
+
+
+
+---
+
+#### :watermelon: **多线程/并发**
+
+
+
+
+
+
+
+---
+
+#### :woman_playing_water_polo:Hec-Ras
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younggungun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
