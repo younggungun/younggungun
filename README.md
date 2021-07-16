@@ -77,7 +77,7 @@
 
 
 
-## :floppy_disk: 数据库
+##<p align="left">:floppy_disk: 数据库</p>
 
 - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
 - [SQL 语法](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL%20语法.md)
@@ -105,7 +105,7 @@
 
 
 
-## :rocket:#多线程、并发
+## <p align="left">:rocket:#多线程、并发</p>
 
 
 
@@ -171,7 +171,8 @@
 
 
 
-## :bulb:bulb-Nio/Netty
+## <p align="left">:bulb:bulb-Nio/Netty</p>
+
 
 
 
