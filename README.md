@@ -21,6 +21,9 @@
 
 
 💜💝💞💟❣📱📶📳😂😃😄😅😆😋😎😍‍✌✋👌👍👊👋👏✍👣👀👂👃👅👄💋👑💍🌂⚽⚾🎮🎲🎷🎸🎺🎻🚲⌚⏰📻☎💰💳♠♥♦♣💯💘❤💓💔💕💖💗💙💚💛
+<div align="center">
+    <img src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="200px>
+</div>
 
 <div align="center">
     <a href=""> <img src="https://img.shields.io/badge/DaYoung-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-blue"></a>
