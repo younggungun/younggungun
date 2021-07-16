@@ -81,6 +81,12 @@
 
 ## <p align="left">:floppy_disk: 数据库</p>
 
+- mysql---->[mac普通安装](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf)---->[win10普通安装和docker安装](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_2win10%E5%AE%89%E8%A3%85Mysql5.7.pdf)
+
+- mysql[初级](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_1Mysql%E5%9F%BA%E7%A1%80.md)
+
+- mysql[高级](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md)
+
 - <p align="left">Redis</p>
 
 
