@@ -47,10 +47,7 @@
 
 ## <p align="left">:cat:Java基础</p>
 
-<details>
-<summary>
-  Open me
-</summary>
+
 
 
 
@@ -65,14 +62,6 @@
 
 
 ##   <p align="left">:cloud:计算机网络</p>
-
-<details>
-<summary>
-    open me
-    <p>
-        <a href></a>
-    </p>
-</summary>
 
 
 
