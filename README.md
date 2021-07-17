@@ -43,19 +43,14 @@
 <div align="center">
     <img src="https://github.com/younggungun/younggungun/blob/main/images/dayoung.PNG" width="400px">
 </div>
-
 <br>
 
-  
-## :pencil2: 算法
+## <p align="left">:cat:Java基础</p>
 
-- [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
-- [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
-- [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-
-## :cat: Java基础
-
-
+<details>
+<summary>
+  Open me
+</summary>
 
 
 
@@ -71,7 +66,13 @@
 
 ##   <p align="left">:cloud:计算机网络</p>
 
-- 
+<details>
+<summary>
+    open me
+    <p>
+        <a href></a>
+    </p>
+</summary>
 
 
 
@@ -89,21 +90,19 @@
 
 ## <p align="left">:floppy_disk: 数据库</p>
 
-- mysql---->[mac普通安装](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf)---->[win10普通安装和docker安装](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_2win10%E5%AE%89%E8%A3%85Mysql5.7.pdf)
-
-- mysql[初级](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_1Mysql%E5%9F%BA%E7%A1%80.md)
-
-- mysql[高级](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md)
-
-[Redis](https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md)
-
-
-
-
-
-
-
-
+<details>
+<summary>
+    Wanna Study mysql and redis.Now ,List me(●'◡'●)！
+</summary>
+    <p>
+        <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf">mysql_mac安装教程</a>
+    </p>
+    <p>
+    <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_2win10%E5%AE%89%E8%A3%85Mysql5.7.pdf">win10普通安装和docker安装</a>
+    <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_1Mysql%E5%9F%BA%E7%A1%80.md">mysql初级</a>
+        <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md">mysql高级</a>
+        <a>redis</a>
+    </p>
 
 ## <img src="https://mybatis.org/images/mybatis-logo.png" align='left' width="120px"><p align="left">Mybatis/M-P</p>
 
