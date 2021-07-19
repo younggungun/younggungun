@@ -89,8 +89,8 @@
     <p>
     <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_2win10%E5%AE%89%E8%A3%85Mysql5.7.pdf">win10普通安装和docker安装</a>
     <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_1Mysql%E5%9F%BA%E7%A1%80.md">mysql初级</a>
-        <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md">mysql高级</a>
-        <a herf="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/Redis.md">redis</a>
+    <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md">mysql高级</a>
+     <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/Redis.md">redis</a>
     </p>
 
 ## <img src="https://mybatis.org/images/mybatis-logo.png" align='left' width="120px"><p align="left">Mybatis/M-P</p>
