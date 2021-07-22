@@ -79,10 +79,10 @@
 
 ## <p align="left">:floppy_disk: 数据库</p>
 
-<details>
-<summary>
-    Wanna Study mysql and redis.Now ,List me(●'◡'●)！
-</summary>
+#<details>
+#<summary>
+#    Wanna Study mysql and redis.Now ,List me(●'◡'●)！
+#</summary>
     <p>
         <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf">mysql_mac安装教程</a>
     </p>
