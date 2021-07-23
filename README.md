@@ -61,7 +61,7 @@
 
 
 
-##   <p align="left">:cloud:计算机网络</p>
+##  <a href="https://github.com/younggungun/younggungun/blob/main/Notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%BD%91%E8%87%AA%E7%BB%93.md">:cloud:计算机网络</a> 
 
 
 
@@ -79,10 +79,9 @@
 
 ## <p align="left">:floppy_disk: 数据库</p>
 
-#<details>
-#<summary>
-#    Wanna Study mysql and redis.Now ,List me(●'◡'●)！
-#</summary>
+
+Wanna Study mysql and redis.Now ,List me(●'◡'●)！
+
     <p>
         <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf">mysql_mac安装教程</a>
     </p>
