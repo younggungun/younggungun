@@ -82,15 +82,12 @@
 
 Wanna Study mysql and redis.Now ,List me(●'◡'●)！
 
-    <p>
-        <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf">mysql_mac安装教程</a>
-    </p>
-    <p>
-    <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_2win10%E5%AE%89%E8%A3%85Mysql5.7.pdf">win10普通安装和docker安装</a>
-    <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_1Mysql%E5%9F%BA%E7%A1%80.md">mysql初级</a>
-    <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md">mysql高级</a>
-     <a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/Redis.md">redis</a>
-    </p>
+<a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_1%E5%AE%89%E8%A3%85Mac%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85MySQL.pdf">mysql_mac安装教程</a>
+<a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/1_2win10%E5%AE%89%E8%A3%85Mysql5.7.pdf">win10普通安装和docker安装</a>
+<a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_1Mysql%E5%9F%BA%E7%A1%80.md">mysql初级</a>
+<a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/2_2Mysql%E9%AB%98%E7%BA%A7.md">mysql高级</a>
+<a href="https://github.com/younggungun/younggungun/blob/main/Notes/mysql/Redis.md">redis</a>
+<a href="https://mp.weixin.qq.com/s/oOL4yradD5w73VsrfoyneA">MVCC和事务隔离级别</a>
 
 ## <img src="https://mybatis.org/images/mybatis-logo.png" align='left' width="120px"><p align="left">Mybatis/M-P</p>
 
