@@ -202,5 +202,23 @@ System.gc()仅仅是一个请求或建议，并不是立即gc，而是对几个�
 :four_leaf_clover:
 
 
+#### 16、Minor GC、Major GC、Full GC区别及触发条件
 
+- **Minor GC 触发条件一般为：**
+  1. eden区满时，触发MinorGC。即申请一个对象时，发现eden区不够用，则触发一次MinorGC。
+  2. 新创建的对象大小 > Eden所剩空间时触发Minor GC
+- **Major GC和Full GC 触发条件一般为：**
+  `Major GC通常是跟full GC是等价的`
+  1. 每次晋升到老年代的对象平均大小>老年代剩余空间
+  2. MinorGC后存活的对象超过了老年代剩余空间
+  3. 永久代空间不足
+  4. 执行System.gc()
+  5. CMS GC异常
+  6. 堆内存分配很大的对象
+
+#### 17、为什么新生代要分Eden和两个 Survivor 区域？
+
+- Eden区每进行一次Minor GC，存活的对象就会被送到老年代。老年代很快被填满
+- 减少被送到老年代的对象，进而减少Full GC的发生
+- 解决了碎片化
  
