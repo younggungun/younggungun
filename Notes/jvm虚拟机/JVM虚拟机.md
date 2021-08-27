@@ -37,7 +37,7 @@
 
 #### 2、JVM的组成
 
-![image-20210827090955441](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210827090955441.png)
+![image-20210827090955441](https://github.com/younggungun/younggungun/blob/main/images/jvm%E7%9A%84%E7%BB%84%E6%88%90.png)
 
 ##### 2-1内存分区各个作用
 
@@ -57,7 +57,7 @@
 
 #### 3、GC垃圾收集器
 
-![image-20210827173853920](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210827173853920.png)
+![image-20210827173853920](https://github.com/younggungun/younggungun/blob/main/images/jvm%E7%9A%84%E5%90%84%E6%94%B6%E9%9B%86%E5%99%A8.png)
 
 Serial：单线程，——复制
 
@@ -158,7 +158,7 @@ clone最慢，for次之，copyof第三，arraycopy最快。copyof底层调用arr
 
 #### 11、对象创建流程
 
-![image-20210827171421725](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20210827171421725.png)
+![image-20210827171421725](https://github.com/younggungun/younggungun/blob/main/images/jvm%E7%9A%84%E5%AF%B9%E8%B1%A1%E5%88%9B%E5%BB%BA%E8%BF%87%E7%A8%8B.png)
 
 1、类加载  2、内存分配方式：堆内存规整-指针碰撞、堆内存不规整-空闲列表；
 
