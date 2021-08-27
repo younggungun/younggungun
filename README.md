@@ -109,7 +109,7 @@ Wanna Study mysql and redis.Now ,List me(●'◡'●)！
 
 ## <p align="left">:rocket:#JVM虚拟机</p>
 <a href="https://github.com/younggungun/younggungun/blob/main/Notes/jvm%E8%99%9A%E6%8B%9F%E6%9C%BA/JVM%E8%99%9A%E6%8B%9F%E6%9C%BA.md">JVM虚拟机</a>
-  <span style='color:red;background:blue;>JVM虚拟机</span>
+ <span style='color:red;background:blue;'>JVM虚拟机</span>
 
 
 
