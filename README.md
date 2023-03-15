@@ -168,7 +168,7 @@ Wanna Study mysql and redis.Now ,List me(●'◡'●)！
 ## <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fs1.ax1x.com%2F2020%2F05%2F17%2FYRgHpQ.png&refer=http%3A%2F%2Fs1.ax1x.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629015597&t=33992f50ebcbedfeb96eb163e46d8868" align='left' width="100px"><p align="left">Dubbo/Zookeeper</p>
 
 
-
+LUA脚本学习https://blog.csdn.net/qq_40506747/article/details/120388764
 
 
 
